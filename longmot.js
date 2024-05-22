@@ -1,7 +1,4 @@
 
-
-
-
 let boutonCalcul = document.getElementById("boutonCalcul");
 
 boutonCalcul.addEventListener("click", function (event) {
